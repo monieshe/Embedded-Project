@@ -189,16 +189,5 @@ Add project photos inside the `images/` folder and update this section.
 
 ---
 
-## 👨‍💻 Author
-
-**Moniesh E.**
-
-Electronics Engineering Student
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
-Feel free to use, modify, and distribute this project for educational and research purposes.
+## 💡References
+https://circuitdigest.com/microcontroller-projects/arduino-fire-fighting-robot-code
